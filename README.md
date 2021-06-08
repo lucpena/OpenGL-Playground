@@ -6,4 +6,4 @@ A learning enviroment that's always been updated as I learn and develop more fea
 
 ![Screenshot 1](https://github.com/lucpena/OpenGL-Playground/blob/main/ss/opengl.png)
 
-![Screenshot 2](https://github.com/lucpena/OpenGL-Playground/blob/main/ss/opengl2.png)
+![Screenshot 2](https://github.com/lucpena/OpenGL-Playground/blob/main/ss/opengl3.png)
